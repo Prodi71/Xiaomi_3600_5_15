@@ -33,7 +33,6 @@ env:
   UPLOAD_RELEASE: true
   TZ: Europe/Saratov
 
-
 jobs:
   build:
     runs-on: ubuntu-20.04
